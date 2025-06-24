@@ -79,3 +79,31 @@ We compare a custom-built CNN with a transfer learning approach using MobileNetV
    ```bash
    git clone https://github.com/yourusername/cats-vs-dogs-classification.git
    cd cats-vs-dogs-classification
+
+2. Set up your environment:
+
+    pip install -r requirements.txt
+
+3. Download the dataset from Kaggle and extract it under a folder named ./dogs-vs-cats/train.
+
+4. Run the notebook:
+
+   jupyter notebook Cats_vs_Dogs_Classification.ipynb
+
+
+References
+Kaggle – Dogs vs. Cats Dataset
+
+Microsoft Research Asirra Dataset (Original Source)
+
+MobileNetV2 Paper
+
+TensorFlow Documentation – https://www.tensorflow.org/
+
+Keras API Reference – https://keras.io/api/
+
+Author
+Nushin Anwar
+
+License
+This project is under Kaggle Terms of Use.
