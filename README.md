@@ -88,7 +88,8 @@ We compare a custom-built CNN with a transfer learning approach using MobileNetV
 
 4. Run the notebook:
 
-   jupyter notebook Cats_vs_Dogs_Classification.ipynb
+   jupyter notebook Introduction to Deep Learning Final Project.ipynb
+
 
 
 ## References
