@@ -91,7 +91,8 @@ We compare a custom-built CNN with a transfer learning approach using MobileNetV
    jupyter notebook Cats_vs_Dogs_Classification.ipynb
 
 
-References
+## References
+
 Kaggle – Dogs vs. Cats Dataset
 
 Microsoft Research Asirra Dataset (Original Source)
@@ -102,8 +103,8 @@ TensorFlow Documentation – https://www.tensorflow.org/
 
 Keras API Reference – https://keras.io/api/
 
-Author
+## Author
 Nushin Anwar
 
-License
+## License
 This project is under Kaggle Terms of Use.
